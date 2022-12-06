@@ -27,7 +27,7 @@ alert("¡Bienvenido Víctor!");
 
 
 /*
-    Agregar artículos al carrito y resultados con descuentos
+    Confirmación de agregar artículos al carrito y resultados con descuentos
 */
 
 let cuerdas = 1200;
